@@ -1,0 +1,13 @@
+[
+    // { "caption": "Inflection: camelize", "command": "camelize" },
+    // { "caption": "Inflection: dasherize", "command": "dasherize" },
+    // { "caption": "Inflection: humanize", "command": "humanize" },
+    { "caption": "Inflection: ordinalize", "command": "ordinalize" },
+    // { "caption": "Inflection: parameterize", "command": "parameterize" },
+    { "caption": "Inflection: pluralize", "command": "pluralize" },
+    { "caption": "Inflection: singularize", "command": "singularize" },
+    // { "caption": "Inflection: tableize", "command": "tableize" },
+    // { "caption": "Inflection: titleize", "command": "titleize" },
+    { "caption": "Inflection: transliterate to ascii", "command": "ascii_transliterate" },
+    // { "caption": "Inflection: underscore", "command": "underscore" },
+]
